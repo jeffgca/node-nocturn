@@ -1,0 +1,11 @@
+{
+  "name": "nocturn",
+  "version": "1.0.0",
+  "description": "Node Library for communicating with Novation Nocturn hardware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
