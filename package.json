@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.2",
+    "binascii": "0.0.2",
+    "underscore": "^1.9.1",
     "usb": "^1.5.0"
   }
 }
