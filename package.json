@@ -15,7 +15,7 @@
     "max-api": "^2.0.0",
     "midi": "github:Cycling74/node-midi",
     "npm": "^6.13.4",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "usb": "^1.6.1"
   }
 }
